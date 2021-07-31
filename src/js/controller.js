@@ -1,3 +1,5 @@
+import 'core-js/stable';
+import 'regenerator-runtime';
 import * as model from './model';
 import { recipeView } from './views/RecipeView';
 import { searchView } from './views/SearchView';
